@@ -1,0 +1,1 @@
+- Student, learning python and javsascript
